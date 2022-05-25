@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AMS_Euro_Real/1.0.0": {
+        "runtime": {
+          "AMS_Euro_Real.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMS_Euro_Real/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

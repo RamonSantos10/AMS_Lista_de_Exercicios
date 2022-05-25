@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\bin\Debug\net6.0\Peso_Ideal.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\bin\Debug\net6.0\Peso_Ideal.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\bin\Debug\net6.0\Peso_Ideal.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\bin\Debug\net6.0\Peso_Ideal.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\bin\Debug\net6.0\Peso_Ideal.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\refint\Peso_Ideal.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\Peso_Ideal.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_6\Peso_Ideal\obj\Debug\net6.0\ref\Peso_Ideal.dll

@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\bin\Debug\net6.0\Fahrenheit_Celsius.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\bin\Debug\net6.0\Fahrenheit_Celsius.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\bin\Debug\net6.0\Fahrenheit_Celsius.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\bin\Debug\net6.0\Fahrenheit_Celsius.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\bin\Debug\net6.0\Fahrenheit_Celsius.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\refint\Fahrenheit_Celsius.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\Fahrenheit_Celsius.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_5\Fahrenheit_Celsius\obj\Debug\net6.0\ref\Fahrenheit_Celsius.dll

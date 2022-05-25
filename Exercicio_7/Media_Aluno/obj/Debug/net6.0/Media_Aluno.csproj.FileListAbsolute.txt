@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\bin\Debug\net6.0\Media_Aluno.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\bin\Debug\net6.0\Media_Aluno.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\bin\Debug\net6.0\Media_Aluno.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\bin\Debug\net6.0\Media_Aluno.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\bin\Debug\net6.0\Media_Aluno.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\refint\Media_Aluno.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\Media_Aluno.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_7\Media_Aluno\obj\Debug\net6.0\ref\Media_Aluno.dll

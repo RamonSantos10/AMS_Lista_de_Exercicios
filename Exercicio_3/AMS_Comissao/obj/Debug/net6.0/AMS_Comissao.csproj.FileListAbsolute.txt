@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\bin\Debug\net6.0\AMS_Comissao.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\bin\Debug\net6.0\AMS_Comissao.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\bin\Debug\net6.0\AMS_Comissao.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\bin\Debug\net6.0\AMS_Comissao.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\bin\Debug\net6.0\AMS_Comissao.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\refint\AMS_Comissao.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\AMS_Comissao.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_3\AMS_Comissao\obj\Debug\net6.0\ref\AMS_Comissao.dll

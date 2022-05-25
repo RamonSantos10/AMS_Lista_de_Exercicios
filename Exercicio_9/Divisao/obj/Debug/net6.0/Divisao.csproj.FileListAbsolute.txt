@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\bin\Debug\net6.0\Divisao.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\bin\Debug\net6.0\Divisao.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\bin\Debug\net6.0\Divisao.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\bin\Debug\net6.0\Divisao.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\bin\Debug\net6.0\Divisao.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\refint\Divisao.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\Divisao.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_9\Divisao\obj\Debug\net6.0\ref\Divisao.dll

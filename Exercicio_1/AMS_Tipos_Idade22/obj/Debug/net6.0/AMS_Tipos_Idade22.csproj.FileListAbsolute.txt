@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\bin\Debug\net6.0\AMS_Tipos_Idade22.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\bin\Debug\net6.0\AMS_Tipos_Idade22.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\bin\Debug\net6.0\AMS_Tipos_Idade22.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\bin\Debug\net6.0\AMS_Tipos_Idade22.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\bin\Debug\net6.0\AMS_Tipos_Idade22.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\refint\AMS_Tipos_Idade22.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\AMS_Tipos_Idade22.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_1\AMS_Tipos_Idade22\obj\Debug\net6.0\ref\AMS_Tipos_Idade22.dll

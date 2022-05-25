@@ -1,0 +1,15 @@
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\bin\Debug\net6.0\AMS_Euro_Real.exe
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\bin\Debug\net6.0\AMS_Euro_Real.deps.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\bin\Debug\net6.0\AMS_Euro_Real.runtimeconfig.json
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\bin\Debug\net6.0\AMS_Euro_Real.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\bin\Debug\net6.0\AMS_Euro_Real.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.csproj.AssemblyReference.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.AssemblyInfoInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.AssemblyInfo.cs
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.csproj.CoreCompileInputs.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\refint\AMS_Euro_Real.dll
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.pdb
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\AMS_Euro_Real.genruntimeconfig.cache
+E:\2ºAMS\Programmer's\Projetos\Lista de Exercícios\Exercicio_2\AMS_Euro_Real\obj\Debug\net6.0\ref\AMS_Euro_Real.dll
