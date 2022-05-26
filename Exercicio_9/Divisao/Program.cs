@@ -13,7 +13,7 @@ resto = (v1 % v2);
 
 if (v1 == 0 || v2 == 0)
 {
-    Console.WriteLine($"NÃO EXISTE DIVISÃO POR 0");
+    Console.WriteLine($"IMPOSSÍVEL DIVIDIR POR 0");
 }
 else
 {
