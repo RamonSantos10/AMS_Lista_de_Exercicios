@@ -6,4 +6,4 @@ altura = Convert.ToDouble(Console.ReadLine());
 
 pIdeal = ((72.7 * altura) - 58);
 
-Console.WriteLine($"O peso ideal para sua altura é: {pIdeal}Kg");
+Console.WriteLine($"Seu peso ideal é: {pIdeal}Kg");
