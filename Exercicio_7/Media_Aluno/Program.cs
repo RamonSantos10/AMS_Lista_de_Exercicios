@@ -13,7 +13,6 @@ nota3 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Digite a 4ª nota: ");
 nota4 = Convert.ToDouble(Console.ReadLine());
 
-
 media = (nota1 + nota2 + nota3 + nota4) / 4;
 
 Console.WriteLine($"Media: {media}");
