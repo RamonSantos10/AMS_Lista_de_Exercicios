@@ -1,8 +1,8 @@
-﻿int fahrenheit = 0;
-int celsius = 0;
+﻿double fahrenheit = 0;
+double celsius = 0;
 
 Console.Write("Digite o valor em °F: ");
-fahrenheit = Convert.ToInt32(Console.ReadLine());
+fahrenheit = Convert.ToDouble(Console.ReadLine());
 
 celsius = (fahrenheit - 32) * 5 / 9;
 
