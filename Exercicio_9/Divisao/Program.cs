@@ -11,7 +11,7 @@ v2 = Convert.ToDouble(Console.ReadLine());
 total = (v1 / v2);
 resto = (v1 % v2);
 
-if (v1 == 0 || v2 == 0)
+if (v2 == 0)
 {
     Console.WriteLine($"IMPOSSÍVEL DIVIDIR POR 0");
 }
