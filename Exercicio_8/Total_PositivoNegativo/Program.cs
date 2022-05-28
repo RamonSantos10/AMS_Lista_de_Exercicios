@@ -15,8 +15,7 @@ if (total > 0)
 {
     Console.WriteLine($"TOTAL POSITIVO");
 }
-else 
-if (total < 0)
+else if (total < 0)
 {
     Console.WriteLine($"TOTAL NEGATIVO");
 }
