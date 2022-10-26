@@ -2,6 +2,7 @@
 double nota2 = 0;
 double nota3 = 0;
 double nota4 = 0;
+double nota5 = 0;
 double media = 0;
 
 Console.Write("Digite a 1ª nota: ");
@@ -12,8 +13,10 @@ Console.Write("Digite a 3ª nota: ");
 nota3 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Digite a 4ª nota: ");
 nota4 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Digite a 5ª nota: ");
+nota5 = Convert.ToDouble(Console.ReadLine());
 
-media = (nota1 + nota2 + nota3 + nota4) / 4;
+media = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
 
 Console.WriteLine($"Media: {media}");
 
