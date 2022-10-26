@@ -7,3 +7,5 @@ fahrenheit = Convert.ToDouble(Console.ReadLine());
 celsius = (fahrenheit - 32) * 5 / 9;
 
 Console.WriteLine($"{fahrenheit}°F = {celsius}°C");
+
+Console.WriteLine("Obrigado por utilizar nosso conversor!!");
